@@ -1,0 +1,7 @@
+export { default as About } from './About'
+export { default as Home } from './Home'
+export { default as Crypto } from './Crypto'
+export { default as CryptoDetails } from './CryptoDetails'
+export { default as Landing } from './Landing'
+export { default as SinglePageError } from './SinglePageError'
+export { default as Error } from './Error'
